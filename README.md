@@ -1,8 +1,8 @@
-# Práctica-Todo Machine: patrones de render y composición
+# Práctica-Todo Machine: patrones de render
 
 ## Descripción
 
-Práctica: TODO Machine. Curso de Patrones de composición y render
+Práctica: TODO Machine. Curso de Patrones de render
 
 ## Despliegue Github pages
 
